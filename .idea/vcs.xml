@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBoot-ErrorAndException" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBoot-Filter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBoot-MyBatisPlus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBoot-orm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBoot-swagger" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBoot-template" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBoot-thymeleaf-restful" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBoot-thymeleaf_curd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBoot-war" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBoot-webflux" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBootMyBatis" vcs="Git" />
+  </component>
+</project>

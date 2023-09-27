@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/SpringBoot-groovy-cli" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringBoot-war" />
+    <file type="web" url="file://$PROJECT_DIR$/SpringBootConfiguration1" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SpringBootConfiguration1/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-template/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-thymeleaf_curd/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-thymeleaf-restful/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-orm/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBootMyBatis/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-MyBatis/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-MyBatisPlus/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-webflux/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-war/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-Filter/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-ErrorAndException/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-swagger/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
