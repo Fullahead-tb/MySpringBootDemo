@@ -7,8 +7,6 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="SpringBoot-thymeleaf-restful" />
-        <module name="SpringBootMyBatis" />
         <module name="SpringBoot-webflux" />
         <module name="SpringBoot-orm" />
         <module name="SpringBoot-swagger" />
@@ -17,16 +15,22 @@
         <module name="SpringBoot-template" />
         <module name="SpringBoot-Filter" />
         <module name="SpringBoot-MyBatisPlus" />
+        <module name="SpringBoot-cache" />
+        <module name="SpringBoot-thymeleaf-restful" />
+        <module name="SpringBootMyBatis" />
         <module name="SpringBootConfiguration1" />
+        <module name="SpringBoot-Actuator" />
         <module name="SpringBoot-ErrorAndException" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SpringBoot-Actuator" options="-parameters" />
       <module name="SpringBoot-ErrorAndException" options="-parameters" />
       <module name="SpringBoot-Filter" options="-parameters" />
       <module name="SpringBoot-MyBatisPlus" options="-parameters" />
+      <module name="SpringBoot-cache" options="-parameters" />
       <module name="SpringBoot-orm" options="-parameters" />
       <module name="SpringBoot-swagger" options="-parameters" />
       <module name="SpringBoot-template" options="-parameters" />

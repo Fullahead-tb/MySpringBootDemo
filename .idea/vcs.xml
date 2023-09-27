@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBoot-Actuator" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SpringBoot-ErrorAndException" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SpringBoot-Filter" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SpringBoot-MyBatisPlus" vcs="Git" />
